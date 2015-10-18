@@ -1,0 +1,12 @@
+{
+  "title": "ACM Digital Library Citation Graph",
+  "name": "citation-graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Seo Sanghyeon",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
